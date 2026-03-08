@@ -1,3 +1,13 @@
+---
+title: ReplicaLab
+emoji: 🧪
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # ReplicaLab
 
 **A multi-agent scientific replication environment built on [OpenEnv](https://github.com/openenv)**
