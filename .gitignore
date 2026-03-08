@@ -39,3 +39,6 @@ Thumbs.db
 .coverage
 htmlcov/
 .pytest_cache/
+
+# Hackathon private files
+hackathon_guidelines.md
